@@ -7,4 +7,4 @@
 <h1> THIS IS PRETTY COOL! </h1>
 <h1> THIS IS PRETTY COOL! </h1>
 <h1> THIS IS PRETTY COOL! </h1>
-<h1> Deployed from git to jenkis to ansible to docker </h1>
+<h1> Deployed from git to jenkins to ansible to docker </h1>
